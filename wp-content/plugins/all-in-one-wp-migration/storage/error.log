@@ -1,0 +1,3 @@
+Jun 05 2021 15:18:49
+{"Number":2,"Message":"Declaration of Jetpack_IXR_Client::query() should be compatible with IXR_Client::query(...$args)","File":"\/home\/or0wjsilyoyu\/public_html\/wp-content\/plugins\/jetpack\/vendor\/automattic\/jetpack-connection\/legacy\/class-jetpack-ixr-client.php","Line":54}
+
